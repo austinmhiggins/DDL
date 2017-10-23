@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body, html {
+   	background-image: url("http://www.southworth.com/shop/swatches/popup_linen_white.jpg");
+
+}
+
+#eat {
+
+	background-color: #DBDDDE;
+	width: 75%;
+	padding: 25px;
+	margin: 25px;
+	align: center;
+	opacity: .8;
+	border-radius: 6px;
+}
+
+#activity {
+
+	background-color: #DBDDDE;
+	width: 75%;
+	padding: 25px;
+	margin: 25px;
+	align: center;
+	opacity: .8;
+	border-radius: 6px;
+}
+
+#drink {
+
+	background-color: #DBDDDE;
+	width: 75%;
+	padding: 25px;
+	margin: 25px;
+	align: center;
+	opacity: .8;
+	border-radius: 6px;
+
+}
+
+footer {
+
+	text-align: center;
+	padding: 15px;
+
+}
+
+#buttonNight {
+
+	background-color: #34AADC;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 6px;
+	width: 50%;
+}
+
+#buttonDay {
+
+	background-color: #34AADC;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 6px;
+	width: 50%;
+
+}
+
+img { 
+ 	display: block;
+   	margin: auto;
+    width: 50%;
+	padding-top: 10px;
+}
+
+.infoText { 
+	text-align: center;
+	font-style: italic;
+	font-size: 24px;
+	font-color: #4A4A4A;
+
+}
